@@ -12,7 +12,7 @@ Yaya does not have these problems. It requires no dependencies, is super fast, h
 
 ```
 git clone https://github.com/davidabernado/yaya
-cd yaya/src
+cd yaya
 bash yaya.sh
 ```
 
